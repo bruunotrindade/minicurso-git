@@ -1,6 +1,9 @@
 Bruno:
 Este é o minicurso de Git e GitHub do VI SASI.
 
+guilherme
+
+
 Italo:
 To com fomeeeeee
 
@@ -19,3 +22,6 @@ quero comer!!!
 
 Ailton:
 teste git hub ailton strix
+
+Guilherme:
+Acaba logo
