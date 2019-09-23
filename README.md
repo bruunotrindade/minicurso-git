@@ -1,5 +1,3 @@
-# minicurso-git
-
 Bruno:
 Este é o minicurso de Git e GitHub do VI SASI.
 
@@ -18,3 +16,6 @@ LeiahmEEh
 Iara:
 ...
 quero comer!!!
+
+Ailton:
+teste git hub ailton strix
