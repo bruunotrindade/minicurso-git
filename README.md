@@ -2,4 +2,9 @@
 
 Bruno:
 Este é o minicurso de Git e GitHub do VI SASI.
-André: To com fome também
+
+Italo:
+To com fomeeeeee
+
+André: 
+To com fome também
